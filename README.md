@@ -1,5 +1,5 @@
 # scrape-sabae
 scrape the web of Sabae city  
 
-CC BY taisukef  
+CC BY Code for Fukui  
 written in Python3  
